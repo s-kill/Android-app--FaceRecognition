@@ -1,3 +1,4 @@
 include ':app'
-rootProject.name='FaceRecognition'
-include ':openCVLibrary344'
+rootProject.name='ATinyProject'
+include ':OpenCVLibrary'
+include ':openCVLibrary348'

@@ -8,8 +8,8 @@ due to bugs, placing projects in directories containing spaces in the
 path, or characters like ", ' and &, have had issues. We're working to
 eliminate these bugs, but to save yourself headaches you may want to
 move your project to a location where this is not a problem.
-C:\Users\skill\Desktop\U 2020\Lab\FaceRecognition_v3\FaceRecognition
-                        -                                           
+C:\Users\skill\Desktop\proyecto proces\ATinyProject
+                               -                   
 
 Ignored Files:
 --------------
@@ -24,6 +24,7 @@ so manually move them:
 * javadoc\help-doc.html
 * javadoc\index-all.html
 * javadoc\index.html
+* javadoc\mymath.js
 * javadoc\org\
 * javadoc\org\opencv\
 * javadoc\org\opencv\android\
@@ -40,6 +41,7 @@ so manually move them:
 * javadoc\org\opencv\android\CameraRenderer.html
 * javadoc\org\opencv\android\FpsMeter.html
 * javadoc\org\opencv\android\InstallCallbackInterface.html
+* javadoc\org\opencv\android\JavaCamera2View.JavaCameraSizeAccessor.html
 * javadoc\org\opencv\android\JavaCamera2View.html
 * javadoc\org\opencv\android\JavaCameraView.JavaCameraSizeAccessor.html
 * javadoc\org\opencv\android\JavaCameraView.html
@@ -49,36 +51,6 @@ so manually move them:
 * javadoc\org\opencv\android\package-frame.html
 * javadoc\org\opencv\android\package-summary.html
 * javadoc\org\opencv\android\package-tree.html
-* javadoc\org\opencv\aruco\
-* javadoc\org\opencv\aruco\Aruco.html
-* javadoc\org\opencv\aruco\Board.html
-* javadoc\org\opencv\aruco\CharucoBoard.html
-* javadoc\org\opencv\aruco\DetectorParameters.html
-* javadoc\org\opencv\aruco\Dictionary.html
-* javadoc\org\opencv\aruco\GridBoard.html
-* javadoc\org\opencv\aruco\package-frame.html
-* javadoc\org\opencv\aruco\package-summary.html
-* javadoc\org\opencv\aruco\package-tree.html
-* javadoc\org\opencv\bgsegm\
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorCNT.html
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorGMG.html
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorGSOC.html
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorLSBP.html
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorLSBPDesc.html
-* javadoc\org\opencv\bgsegm\BackgroundSubtractorMOG.html
-* javadoc\org\opencv\bgsegm\Bgsegm.html
-* javadoc\org\opencv\bgsegm\SyntheticSequenceGenerator.html
-* javadoc\org\opencv\bgsegm\package-frame.html
-* javadoc\org\opencv\bgsegm\package-summary.html
-* javadoc\org\opencv\bgsegm\package-tree.html
-* javadoc\org\opencv\bioinspired\
-* javadoc\org\opencv\bioinspired\Bioinspired.html
-* javadoc\org\opencv\bioinspired\Retina.html
-* javadoc\org\opencv\bioinspired\RetinaFastToneMapping.html
-* javadoc\org\opencv\bioinspired\TransientAreasSegmentationModule.html
-* javadoc\org\opencv\bioinspired\package-frame.html
-* javadoc\org\opencv\bioinspired\package-summary.html
-* javadoc\org\opencv\bioinspired\package-tree.html
 * javadoc\org\opencv\calib3d\
 * javadoc\org\opencv\calib3d\Calib3d.html
 * javadoc\org\opencv\calib3d\StereoBM.html
@@ -133,25 +105,6 @@ so manually move them:
 * javadoc\org\opencv\dnn\package-frame.html
 * javadoc\org\opencv\dnn\package-summary.html
 * javadoc\org\opencv\dnn\package-tree.html
-* javadoc\org\opencv\face\
-* javadoc\org\opencv\face\BIF.html
-* javadoc\org\opencv\face\BasicFaceRecognizer.html
-* javadoc\org\opencv\face\EigenFaceRecognizer.html
-* javadoc\org\opencv\face\Face.html
-* javadoc\org\opencv\face\FaceRecognizer.html
-* javadoc\org\opencv\face\Facemark.html
-* javadoc\org\opencv\face\FacemarkAAM.html
-* javadoc\org\opencv\face\FacemarkKazemi.html
-* javadoc\org\opencv\face\FacemarkLBF.html
-* javadoc\org\opencv\face\FacemarkTrain.html
-* javadoc\org\opencv\face\FisherFaceRecognizer.html
-* javadoc\org\opencv\face\LBPHFaceRecognizer.html
-* javadoc\org\opencv\face\MACE.html
-* javadoc\org\opencv\face\PredictCollector.html
-* javadoc\org\opencv\face\StandardCollector.html
-* javadoc\org\opencv\face\package-frame.html
-* javadoc\org\opencv\face\package-summary.html
-* javadoc\org\opencv\face\package-tree.html
 * javadoc\org\opencv\features2d\
 * javadoc\org\opencv\features2d\AKAZE.html
 * javadoc\org\opencv\features2d\AgastFeatureDetector.html
@@ -170,21 +123,10 @@ so manually move them:
 * javadoc\org\opencv\features2d\MSER.html
 * javadoc\org\opencv\features2d\ORB.html
 * javadoc\org\opencv\features2d\Params.html
+* javadoc\org\opencv\features2d\SimpleBlobDetector.html
 * javadoc\org\opencv\features2d\package-frame.html
 * javadoc\org\opencv\features2d\package-summary.html
 * javadoc\org\opencv\features2d\package-tree.html
-* javadoc\org\opencv\img_hash\
-* javadoc\org\opencv\img_hash\AverageHash.html
-* javadoc\org\opencv\img_hash\BlockMeanHash.html
-* javadoc\org\opencv\img_hash\ColorMomentHash.html
-* javadoc\org\opencv\img_hash\ImgHashBase.html
-* javadoc\org\opencv\img_hash\Img_hash.html
-* javadoc\org\opencv\img_hash\MarrHildrethHash.html
-* javadoc\org\opencv\img_hash\PHash.html
-* javadoc\org\opencv\img_hash\RadialVarianceHash.html
-* javadoc\org\opencv\img_hash\package-frame.html
-* javadoc\org\opencv\img_hash\package-summary.html
-* javadoc\org\opencv\img_hash\package-tree.html
 * javadoc\org\opencv\imgcodecs\
 * javadoc\org\opencv\imgcodecs\Imgcodecs.html
 * javadoc\org\opencv\imgcodecs\package-frame.html
@@ -192,6 +134,9 @@ so manually move them:
 * javadoc\org\opencv\imgcodecs\package-tree.html
 * javadoc\org\opencv\imgproc\
 * javadoc\org\opencv\imgproc\CLAHE.html
+* javadoc\org\opencv\imgproc\GeneralizedHough.html
+* javadoc\org\opencv\imgproc\GeneralizedHoughBallard.html
+* javadoc\org\opencv\imgproc\GeneralizedHoughGuil.html
 * javadoc\org\opencv\imgproc\Imgproc.html
 * javadoc\org\opencv\imgproc\LineSegmentDetector.html
 * javadoc\org\opencv\imgproc\Moments.html
@@ -233,13 +178,6 @@ so manually move them:
 * javadoc\org\opencv\osgi\package-frame.html
 * javadoc\org\opencv\osgi\package-summary.html
 * javadoc\org\opencv\osgi\package-tree.html
-* javadoc\org\opencv\phase_unwrapping\
-* javadoc\org\opencv\phase_unwrapping\HistogramPhaseUnwrapping.html
-* javadoc\org\opencv\phase_unwrapping\PhaseUnwrapping.html
-* javadoc\org\opencv\phase_unwrapping\Phase_unwrapping.html
-* javadoc\org\opencv\phase_unwrapping\package-frame.html
-* javadoc\org\opencv\phase_unwrapping\package-summary.html
-* javadoc\org\opencv\phase_unwrapping\package-tree.html
 * javadoc\org\opencv\photo\
 * javadoc\org\opencv\photo\AlignExposures.html
 * javadoc\org\opencv\photo\AlignMTB.html
@@ -253,56 +191,11 @@ so manually move them:
 * javadoc\org\opencv\photo\Photo.html
 * javadoc\org\opencv\photo\Tonemap.html
 * javadoc\org\opencv\photo\TonemapDrago.html
-* javadoc\org\opencv\photo\TonemapDurand.html
 * javadoc\org\opencv\photo\TonemapMantiuk.html
 * javadoc\org\opencv\photo\TonemapReinhard.html
 * javadoc\org\opencv\photo\package-frame.html
 * javadoc\org\opencv\photo\package-summary.html
 * javadoc\org\opencv\photo\package-tree.html
-* javadoc\org\opencv\plot\
-* javadoc\org\opencv\plot\Plot.html
-* javadoc\org\opencv\plot\Plot2d.html
-* javadoc\org\opencv\plot\package-frame.html
-* javadoc\org\opencv\plot\package-summary.html
-* javadoc\org\opencv\plot\package-tree.html
-* javadoc\org\opencv\structured_light\
-* javadoc\org\opencv\structured_light\GrayCodePattern.html
-* javadoc\org\opencv\structured_light\Params.html
-* javadoc\org\opencv\structured_light\SinusoidalPattern.html
-* javadoc\org\opencv\structured_light\StructuredLightPattern.html
-* javadoc\org\opencv\structured_light\Structured_light.html
-* javadoc\org\opencv\structured_light\package-frame.html
-* javadoc\org\opencv\structured_light\package-summary.html
-* javadoc\org\opencv\structured_light\package-tree.html
-* javadoc\org\opencv\text\
-* javadoc\org\opencv\text\BaseOCR.html
-* javadoc\org\opencv\text\Callback.html
-* javadoc\org\opencv\text\ClassifierCallback.html
-* javadoc\org\opencv\text\ERFilter.html
-* javadoc\org\opencv\text\OCRBeamSearchDecoder.html
-* javadoc\org\opencv\text\OCRHMMDecoder.html
-* javadoc\org\opencv\text\OCRTesseract.html
-* javadoc\org\opencv\text\Text.html
-* javadoc\org\opencv\text\TextDetector.html
-* javadoc\org\opencv\text\TextDetectorCNN.html
-* javadoc\org\opencv\text\package-frame.html
-* javadoc\org\opencv\text\package-summary.html
-* javadoc\org\opencv\text\package-tree.html
-* javadoc\org\opencv\tracking\
-* javadoc\org\opencv\tracking\MultiTracker.html
-* javadoc\org\opencv\tracking\Tracker.html
-* javadoc\org\opencv\tracking\TrackerBoosting.html
-* javadoc\org\opencv\tracking\TrackerCSRT.html
-* javadoc\org\opencv\tracking\TrackerGOTURN.html
-* javadoc\org\opencv\tracking\TrackerKCF.html
-* javadoc\org\opencv\tracking\TrackerMIL.html
-* javadoc\org\opencv\tracking\TrackerMOSSE.html
-* javadoc\org\opencv\tracking\TrackerMedianFlow.html
-* javadoc\org\opencv\tracking\TrackerTLD.html
-* javadoc\org\opencv\tracking\Tracking.html
-* javadoc\org\opencv\tracking\package-frame.html
-* javadoc\org\opencv\tracking\package-summary.html
-* javadoc\org\opencv\tracking\package-tree.html
 * javadoc\org\opencv\utils\
 * javadoc\org\opencv\utils\Converters.html
 * javadoc\org\opencv\utils\package-frame.html
@@ -329,65 +222,6 @@ so manually move them:
 * javadoc\org\opencv\videoio\package-frame.html
 * javadoc\org\opencv\videoio\package-summary.html
 * javadoc\org\opencv\videoio\package-tree.html
-* javadoc\org\opencv\xfeatures2d\
-* javadoc\org\opencv\xfeatures2d\BoostDesc.html
-* javadoc\org\opencv\xfeatures2d\BriefDescriptorExtractor.html
-* javadoc\org\opencv\xfeatures2d\DAISY.html
-* javadoc\org\opencv\xfeatures2d\FREAK.html
-* javadoc\org\opencv\xfeatures2d\HarrisLaplaceFeatureDetector.html
-* javadoc\org\opencv\xfeatures2d\LATCH.html
-* javadoc\org\opencv\xfeatures2d\LUCID.html
-* javadoc\org\opencv\xfeatures2d\MSDDetector.html
-* javadoc\org\opencv\xfeatures2d\PCTSignatures.html
-* javadoc\org\opencv\xfeatures2d\PCTSignaturesSQFD.html
-* javadoc\org\opencv\xfeatures2d\SIFT.html
-* javadoc\org\opencv\xfeatures2d\SURF.html
-* javadoc\org\opencv\xfeatures2d\StarDetector.html
-* javadoc\org\opencv\xfeatures2d\VGG.html
-* javadoc\org\opencv\xfeatures2d\Xfeatures2d.html
-* javadoc\org\opencv\xfeatures2d\package-frame.html
-* javadoc\org\opencv\xfeatures2d\package-summary.html
-* javadoc\org\opencv\xfeatures2d\package-tree.html
-* javadoc\org\opencv\ximgproc\
-* javadoc\org\opencv\ximgproc\AdaptiveManifoldFilter.html
-* javadoc\org\opencv\ximgproc\ContourFitting.html
-* javadoc\org\opencv\ximgproc\DTFilter.html
-* javadoc\org\opencv\ximgproc\DisparityFilter.html
-* javadoc\org\opencv\ximgproc\DisparityWLSFilter.html
-* javadoc\org\opencv\ximgproc\EdgeAwareInterpolator.html
-* javadoc\org\opencv\ximgproc\EdgeBoxes.html
-* javadoc\org\opencv\ximgproc\FastBilateralSolverFilter.html
-* javadoc\org\opencv\ximgproc\FastGlobalSmootherFilter.html
-* javadoc\org\opencv\ximgproc\FastLineDetector.html
-* javadoc\org\opencv\ximgproc\GraphSegmentation.html
-* javadoc\org\opencv\ximgproc\GuidedFilter.html
-* javadoc\org\opencv\ximgproc\RFFeatureGetter.html
-* javadoc\org\opencv\ximgproc\RidgeDetectionFilter.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentation.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategy.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategyColor.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategyFill.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategyMultiple.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategySize.html
-* javadoc\org\opencv\ximgproc\SelectiveSearchSegmentationStrategyTexture.html
-* javadoc\org\opencv\ximgproc\SparseMatchInterpolator.html
-* javadoc\org\opencv\ximgproc\StructuredEdgeDetection.html
-* javadoc\org\opencv\ximgproc\SuperpixelLSC.html
-* javadoc\org\opencv\ximgproc\SuperpixelSEEDS.html
-* javadoc\org\opencv\ximgproc\SuperpixelSLIC.html
-* javadoc\org\opencv\ximgproc\Ximgproc.html
-* javadoc\org\opencv\ximgproc\package-frame.html
-* javadoc\org\opencv\ximgproc\package-summary.html
-* javadoc\org\opencv\ximgproc\package-tree.html
-* javadoc\org\opencv\xphoto\
-* javadoc\org\opencv\xphoto\GrayworldWB.html
-* javadoc\org\opencv\xphoto\LearningBasedWB.html
-* javadoc\org\opencv\xphoto\SimpleWB.html
-* javadoc\org\opencv\xphoto\WhiteBalancer.html
-* javadoc\org\opencv\xphoto\Xphoto.html
-* javadoc\org\opencv\xphoto\package-frame.html
-* javadoc\org\opencv\xphoto\package-summary.html
-* javadoc\org\opencv\xphoto\package-tree.html
 * javadoc\overview-frame.html
 * javadoc\overview-summary.html
 * javadoc\overview-tree.html
@@ -405,11 +239,11 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => openCVLibrary344\src\main\AndroidManifest.xml
-* lint.xml => openCVLibrary344\lint.xml
-* res\ => openCVLibrary344\src\main\res\
-* src\ => openCVLibrary344\src\main\java\
-* src\org\opencv\engine\OpenCVEngineInterface.aidl => openCVLibrary344\src\main\aidl\org\opencv\engine\OpenCVEngineInterface.aidl
+* AndroidManifest.xml => openCVLibrary348\src\main\AndroidManifest.xml
+* lint.xml => openCVLibrary348\lint.xml
+* res\ => openCVLibrary348\src\main\res\
+* src\ => openCVLibrary348\src\main\java\
+* src\org\opencv\engine\OpenCVEngineInterface.aidl => openCVLibrary348\src\main\aidl\org\opencv\engine\OpenCVEngineInterface.aidl
 
 Next Steps:
 -----------
